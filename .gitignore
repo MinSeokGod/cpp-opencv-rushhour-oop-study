@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# OpenCV
+opencv/
+*.dll
+*.lib
+
+# ETC 
+*.log
+*.tmp
